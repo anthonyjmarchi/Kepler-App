@@ -26,7 +26,7 @@ _getKepler() {
     return (
     <View style={styles.mainContainer}>
       <View style={styles.toolbarContainer}>
-        <Text style={styles.toolbarTitle}>Kepler Dating</Text>
+        <Text style={styles.toolbarTitle}>Kepler Dating App</Text>
       </View>
       <View style={styles.content}>
         <View style={styles.messageBox}>
